@@ -1,0 +1,1 @@
+cmd_/home/ubuntu20/my_drv_test/09_test_misc_drv/test_misc_drv.ko := arm-buildroot-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/ubuntu20/my_drv_test/09_test_misc_drv/test_misc_drv.ko /home/ubuntu20/my_drv_test/09_test_misc_drv/test_misc_drv.o /home/ubuntu20/my_drv_test/09_test_misc_drv/test_misc_drv.mod.o ;  true

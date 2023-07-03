@@ -1,0 +1,1 @@
+cmd_/home/ubuntu20/my_drv_test/06_test_chardev_drv_rw/test_cdev_rw.ko := arm-buildroot-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/ubuntu20/my_drv_test/06_test_chardev_drv_rw/test_cdev_rw.ko /home/ubuntu20/my_drv_test/06_test_chardev_drv_rw/test_cdev_rw.o /home/ubuntu20/my_drv_test/06_test_chardev_drv_rw/test_cdev_rw.mod.o ;  true

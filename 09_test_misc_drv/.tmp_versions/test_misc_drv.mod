@@ -1,0 +1,3 @@
+/home/ubuntu20/my_drv_test/09_test_misc_drv/test_misc_drv.ko
+/home/ubuntu20/my_drv_test/09_test_misc_drv/test_misc_drv.o
+

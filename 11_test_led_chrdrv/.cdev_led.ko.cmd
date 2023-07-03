@@ -1,0 +1,1 @@
+cmd_/home/ubuntu20/my_drv_test/11_test_led_chrdrv/cdev_led.ko := arm-buildroot-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/ubuntu20/my_drv_test/11_test_led_chrdrv/cdev_led.ko /home/ubuntu20/my_drv_test/11_test_led_chrdrv/cdev_led.o /home/ubuntu20/my_drv_test/11_test_led_chrdrv/cdev_led.mod.o ;  true

@@ -1,0 +1,3 @@
+/home/ubuntu20/my_drv_test/10_test_chardev_drv_process_error/test_cdev_private_data.ko
+/home/ubuntu20/my_drv_test/10_test_chardev_drv_process_error/test_cdev_private_data.o
+

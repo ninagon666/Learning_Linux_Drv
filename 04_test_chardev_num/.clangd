@@ -1,0 +1,6 @@
+CompileFlags:
+    Remove: [-fno-ipa-sra, -mno-fdpic, -mno-thumb-interwork, -fno-var-tracking-assignments, -fconserve-stack]
+    Add: [-Wno-unused-function]
+
+
+#  -Wno-unused-variable
