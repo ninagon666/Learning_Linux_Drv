@@ -1,0 +1,12 @@
+//根节点下添加以下节点信息
+/{
+    usr_led {
+            #address-cells = <1>;
+            #size-cells = <1>;
+            pinctrl-names = "default";
+            compatible = "test-usr-led";
+            pinctrl-0 = <&pinctrl_usr_led>;
+            usr_led = <&gpio5 3 GPIO_ACTIVE_LOW>;
+            status = "okay";
+    };
+}
